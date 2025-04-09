@@ -126,7 +126,7 @@ function QuestionsSection({mockInterviewQues, activeQuestionIndex, onQuestionCha
             </div>
             <p className='text-gray-300 text-sm mb-3 text-yellow-300'>
                 Enable your webcam and microphone for the AI-powered mock interview. 
-                This session includes 10 questions to help assess and improve your interview skills.
+                This session includes 5 questions to help assess and improve your interview skills.
             </p>
             <p className='text-xs text-yellow-600'>
                 <strong>Note:</strong> Your privacy is our priority. We do not record or store any personal data. 
