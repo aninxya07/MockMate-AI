@@ -60,7 +60,7 @@ const Footer = () => {
           <div className="flex flex-col items-center md:items-start">
             <div className="flex items-center space-x-3 mb-4">
               <h2 className="text-3xl mr-5 font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-300 to-blue-500">
-                AI Mock Interview
+                MockMate AI
               </h2>
             </div>
             <p className="text-lg text-gray-300 text-center md:text-left max-w-xs">
@@ -194,7 +194,7 @@ const Footer = () => {
         {/* Copyright Section */}
         <div className="mt-12 pt-4 border-t border-white/10 text-center">
           <p className="text-lg text-gray-400">
-            © {new Date().getFullYear()} AI Mock Interview. All rights reserved.
+            © {new Date().getFullYear()} MockMate-AI. All rights reserved.
           </p>
           <p className="text-lg text-gray-400 mt-2">
             Made by{" "}
